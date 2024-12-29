@@ -6,3 +6,6 @@ this is a test file for checking the github features.
 
 Bye, bye,
 DK
+
+here are some changes
+
